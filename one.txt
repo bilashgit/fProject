@@ -1,4 +1,4 @@
 Hi this is one text file
-Honesty is the best polecy.
+
 This is again commit.
 Hi i am commit done.
