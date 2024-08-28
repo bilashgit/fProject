@@ -2,3 +2,4 @@ Hi this is one text file
 
 This is again commit.
 Hi i am commit done.
+NEw somthing
